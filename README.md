@@ -1,3 +1,3 @@
 # apna-college-demo
-my first repo
+my first repo.
 author- Nikhil Bawaskar
